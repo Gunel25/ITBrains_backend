@@ -1,0 +1,7 @@
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\obj\Debug\book_array_task.csproj.AssemblyReference.cache
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\obj\Debug\book_array_task.csproj.CoreCompileInputs.cache
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\bin\Debug\book_array_task.exe.config
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\bin\Debug\book_array_task.exe
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\bin\Debug\book_array_task.pdb
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\obj\Debug\book_array_task.exe
+C:\Users\Gunel\source\repos\book_array_task\book_array_task\obj\Debug\book_array_task.pdb

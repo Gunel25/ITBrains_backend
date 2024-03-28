@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gunel\\Desktop\\book_array_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693427ED-7359-42C0-993E-3E519071A4AF}|book_array_task\\book_array_task.csproj|c:\\users\\gunel\\desktop\\book_array_task\\book_array_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693427ED-7359-42C0-993E-3E519071A4AF}|book_array_task\\book_array_task.csproj|solutionrelative:book_array_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gunel\\Desktop\\book_array_task\\book_array_task\\Program.cs",
+              "RelativeDocumentMoniker": "book_array_task\\Program.cs",
+              "ToolTip": "C:\\Users\\Gunel\\Desktop\\book_array_task\\book_array_task\\Program.cs*",
+              "RelativeToolTip": "book_array_task\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:34:11.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
